@@ -1,0 +1,34 @@
+{
+  "vehicles": [
+    {
+      "vehicle" : "Car",
+      "ownerName": "Mufrad Mabni",
+      "details": "Some detail about Mufrad`s Car"
+    },
+    {
+      "vehicle" : "Bike",
+      "ownerName": "Mufrad Mabni",
+      "details": "Some detail about Mufrad`s Bike"
+    },
+    {
+      "vehicle" : "Bike",
+      "ownerName": "Maulana Kurnia",
+      "details": "Some detail about Maulana`s Bike"
+    },
+    {
+      "vehicle" : "Airplane",
+      "ownerName": "Bill Gates",
+      "details": "Some detail about Bill Gates"
+    },
+    {
+      "vehicle" : "SpaceX",
+      "ownerName": "Elon Musk",
+      "details": "Some detail about Elon"
+    },
+    {
+      "vehicle" : "Ship",
+      "ownerName": "Stave Job",
+      "details": "Some detail about Stave"
+    }
+  ]
+}
